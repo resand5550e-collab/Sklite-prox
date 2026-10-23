@@ -1,0 +1,2 @@
+# Sklite-prox
+proxy web
